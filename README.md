@@ -1,6 +1,6 @@
 # Angular-MultiFileUploader-App
 
-<img width="100%" alt="dialogo_widgetchat_2" src="https://github.com/manishkumar4592/multiple-file-uploader-with-drag-drop/blob/Developer/MultiFileUploading.jpg">
+<img width="100%" alt="Multi file uploader with drag & drop" src="https://github.com/manishkumar4592/multiple-file-uploader-with-drag-drop/blob/Developer/MultiFileUploading.jpg">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
